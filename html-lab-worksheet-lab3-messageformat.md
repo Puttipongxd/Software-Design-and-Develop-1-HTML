@@ -33,7 +33,20 @@
 ```html
 [วางโค้ด HTML ที่นี่]
 ```
+<h1>Hello</h1>
+<h2>My Name Is Puttipong Janasin</h2>
+<p>ประวัติการศึกษา<br></p>มัธยมศึกษาปีที่ 6</p>
+<p>งานอดิเรก<strong>เรียน</strong> และ <em>นอน</em></p>
+<p>อายุ<br>18</p>
+<pre>
+    ขอบคุณที่เข้ามาดู
+    Thank you 
+    See you
+</pre>
+<hr>
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/869d825d-19ff-4b2b-ac5b-b28da22973ac)
+
 
 
