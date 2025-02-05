@@ -167,8 +167,91 @@
 ```html
 [วางโค้ด HTML ที่นี่]
 ```
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก</title>
+</head>
+<body>
+    <!-- ส่วนของเนื้อหา -->
+</body>
+</html>
+
+<nav>
+    <!-- ลิงก์ภายใน - ไปยังหน้าในเว็บไซต์เดียวกัน -->
+    <a href="index.html">หน้าหลัก</a>
+    <a href="pages/about.html">เกี่ยวกับเรา</a>
+    <a href="pages/contact.html">ติดต่อเรา</a>
+    
+    <!-- ลิงก์ภายนอก - เปิดในแท็บใหม่ -->
+    <a href="https://www.google.com" target="_blank">
+        ไปยัง Google
+    </a>
+</nav>
+
+<!-- สร้างจุดเชื่อมโยง -->
+<section id="top">  
+    <h1></h1>
+</section>
+
+<section id="products">
+    <h2>สินค้าของเรา</h2>
+</section>
+
+<!-- ลิงก์ไปยังจุดเชื่อมโยง -->
+<a href="#top">กลับด้านบน</a>
+<a href="#products">ไปยังสินค้า</a>
+
+<!-- ลิงก์อีเมล -->
+<a href="mailto:contact@example.com">ส่งอีเมลหาเรา</a>
+
+<!-- ลิงก์โทรศัพท์ -->
+<a href="tel:+666204951">โทร 064-620-4951</a>
+
+<!-- ลิงก์ดาวน์โหลด -->
+<a href="files\67030162.pdf" download>
+    ดาวน์โหลดเอกสาร
+</a>
+
+<!-- รูปภาพในโฟลเดอร์ images -->
+<img src="images\Jojero.webp" 
+     alt="โลโก้บริษัท"
+     width="50">
+
+<!-- รูปภาพในโฟลเดอร์ย่อย products -->
+<figure>
+<img src="products\st.webp" 
+     alt="สินค้าชิ้นที่ 1"
+     width="200"
+     height="200">
+<figure>       
+
+    <figure>
+        <img src="products\st2.jpg" 
+             alt="สินค้าชิ้นที่ 2" 
+             style="width: 300px; height: auto;">
+        <figcaption>
+            รายละเอียดสินค้าชิ้นที่ 2
+        </figcaption>
+    </figure>
+       
+    
+    <a href="products\25Black.jpg">
+        <img src="products\25Black.jpg" 
+             alt="คลิกเพื่อดูรูปขนาดใหญ่"
+             width="100">
+    </a>
+    <a href="products\Blue.jpg">
+        <img src="products\Blue.jpg" 
+             alt="คลิกเพื่อดูรูปขนาดใหญ่"
+             width="100">
+    </a>
+
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/80dc68a5-5718-4ce7-8b93-f633b71e6758)
+
 
 
 
