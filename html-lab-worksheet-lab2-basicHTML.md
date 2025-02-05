@@ -53,7 +53,8 @@
 </html>
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
-![image](https://github.com/user-attachments/assets/922104d4-a5dd-44b1-bdae-106c76fe0cae)
+![image](https://github.com/user-attachments/assets/72b92af0-c7d8-476c-83a3-2394a99d044b)
+
 
 
 
